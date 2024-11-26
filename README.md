@@ -127,3 +127,4 @@ API = "http://localhost:3000/api"
 ## Lisans
 
 Bu proje [MIT Lisansı](LICENSE) altında lisanslanmıştır.
+Yusuf Esen
