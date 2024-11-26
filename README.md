@@ -62,7 +62,7 @@ API = "http://localhost:3000/api"
   "userId":"1234",
   "title": "Başlık",
   "content": "İçerik"
-}
+  }
   ```
 
 ### 2. Tüm Gönderileri Listeleme
